@@ -1,7 +1,7 @@
 #!/bin/bash
 
 paste -d" " <(find . -name "*awk" | tree --fromfile --compress=3) <(ls exercises/*/**) \
-	| column -t -s " " -N " EXERCISES,     EXAMPLES" -m  \
+	| column -t -s " " -N " EXAMPLES,     EXERCISES" -m  \
 	| pr -f -h "CONTENTS" -o 8 > README.txt;
 
 git add .
