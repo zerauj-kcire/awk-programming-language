@@ -1,6 +1,6 @@
 #!/bin/bash
 
-paste -d" " <(ls exercises/*/**) <(ls examples/*/**) \
+paste -d" " <(find . -name "*awk" | tree --fromfile --compress=3) <(ls exercises/*/**) \
 	| column -t -s " " -N " EXERCISES,     EXAMPLES" -m  \
 	| pr -f -h "CONTENTS" -o 8 > README.txt;
 
