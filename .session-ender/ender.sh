@@ -2,7 +2,7 @@
 
 paste -d" " <(find examples/ -name "*awk") <(ls exercises/*/**) \
 	| column -t -s " " -N "EXAMPLES,EXERCISES" -m  \
-	| pr -f -h "CONTENTS" -o 8 > README.txt;
+	| pr -f -h "CONTENTS" > README.txt;
 
 git add .
 read -p "MESSAGE TO COMMIT: " msg;

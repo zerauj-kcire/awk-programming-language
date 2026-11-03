@@ -1,0 +1,1 @@
+/home/kcire/resarch/comp/gawk/examples/chapt-1/1.8/passwd
