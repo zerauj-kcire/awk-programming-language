@@ -1,0 +1,5 @@
+{ 
+ gsub(/0xA0/, "0x50"); 
+ gsub(/0xFF/, "0x7F"); 
+ print $0 
+}

@@ -1,0 +1,4 @@
+[kcire@polgar 02]$ gawk -f units-conversion.awk "25"
+    25 C =  77.0 F;         25 F =  -3.9 C
+    25 cm =   9.8 in;       25 in =  63.5 cm
+    25 kg =  55.0 lb;       25 lb =  11.4 kg
