@@ -1,6 +1,6 @@
 
 
-2026-11-04 17:06                     CONTENTS                     Page 1
+2026-11-04 19:17                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -49,21 +49,23 @@ examples/chapt-1/1.8/04/last-field.awk           exercises/solutions/02-regex/01
 examples/chapt-1/1.8/05/tail-lf.awk              display.awk                    
 examples/chapt-1/1.8/06/field-requirement.awk    patterns.txt                   
 examples/chapt-1/1.8/07/field-requirements2.awk                                 
-examples/chapt-1/1.8/08/tricky-part.awk                                         
-examples/chapt-1/1.8/09/word-counter-FS.awk                                     
-examples/chapt-1/1.8/10/regex.awk                                               
+examples/chapt-1/1.8/08/tricky-part.awk          exercises/solutions/02-regex/02:
+                                                                                
+examples/chapt-1/1.8/09/word-counter-FS.awk      patterns.txt                   
+examples/chapt-1/1.8/10/regex.awk                substitution.awk               
 examples/chapt-1/1.8/11/max-length.awk                                          
-examples/chapt-1/1.8/11/max-lexicographic.awk                                   
-examples/chapt-1/1.8/12/nonempty.awk                                            
-examples/chapt-1/1.8/13/fat-lines.awk                                           
+examples/chapt-1/1.8/11/max-lexicographic.awk    exercises/solutions/02-regex/03:
+                                                                                
+examples/chapt-1/1.8/12/nonempty.awk             patterns.txt                   
+examples/chapt-1/1.8/13/fat-lines.awk            replacing.awk                  
 examples/chapt-1/1.8/14/numfields.awk                                           
-examples/chapt-1/1.8/15/cut-c-2,1.awk                                           
-examples/chapt-1/1.8/16/permutation.awk                                         
 
 
-2026-11-04 17:06                     CONTENTS                     Page 2
+2026-11-04 19:17                     CONTENTS                     Page 2
 
 
+examples/chapt-1/1.8/15/cut-c-2,1.awk                                           
+examples/chapt-1/1.8/16/permutation.awk                                         
 examples/chapt-1/1.8/17/nl.awk                                                  
 examples/chapt-1/1.8/18/combo-cut-nl.awk                                        
 examples/chapt-1/1.8/19/vertical-tac.awk                                        
@@ -76,4 +78,5 @@ examples/chapt-2/2.3/01/replacing-newlines.awk
 examples/chapt-2/2.4/01/excel-sum.awk                                           
 examples/chapt-2/2.5/01/averages.awk                                            
 examples/chapt-2/2.5/02/histogram-steps.awk                                     
+examples/chapt-2/2.6/01/date-fix.awk                                            
 
