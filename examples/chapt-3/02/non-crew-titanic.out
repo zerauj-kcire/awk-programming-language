@@ -1,0 +1,3 @@
+
+[kcire@polgar 02]$ gawk -f non-crew-survivors.awk titanic.tsv
+1316

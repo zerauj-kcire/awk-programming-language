@@ -1,6 +1,6 @@
 
 
-2026-11-04 19:17                     CONTENTS                     Page 1
+2026-11-05 04:41                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.8/13/fat-lines.awk            replacing.awk
 examples/chapt-1/1.8/14/numfields.awk                                           
 
 
-2026-11-04 19:17                     CONTENTS                     Page 2
+2026-11-05 04:41                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/15/cut-c-2,1.awk                                           
@@ -79,4 +79,11 @@ examples/chapt-2/2.4/01/excel-sum.awk
 examples/chapt-2/2.5/01/averages.awk                                            
 examples/chapt-2/2.5/02/histogram-steps.awk                                     
 examples/chapt-2/2.6/01/date-fix.awk                                            
+examples/chapt-3/01/error-correction.awk                                        
+examples/chapt-3/01/group-sums.awk                                              
+examples/chapt-3/01/survival-rates.awk                                          
+examples/chapt-3/02/children.awk                                                
+examples/chapt-3/02/fields-number.awk                                           
+examples/chapt-3/02/infants.awk                                                 
+examples/chapt-3/02/non-crew-survivors.awk                                      
 
