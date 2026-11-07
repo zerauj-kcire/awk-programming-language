@@ -1,6 +1,6 @@
 
 
-2026-11-06 18:35                     CONTENTS                     Page 1
+2026-11-07 11:46                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.8/13/fat-lines.awk            replacing.awk
 examples/chapt-1/1.8/14/numfields.awk                                           
 
 
-2026-11-06 18:35                     CONTENTS                     Page 2
+2026-11-07 11:46                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/15/cut-c-2,1.awk            exercises/solutions/02-regex/04:
@@ -77,16 +77,19 @@ examples/chapt-1/1.8/22/absolute-value.awk
 examples/chapt-2/2.1/01/body-mass-index.awk      exercises/solutions/02-regex/06:
                                                                                 
 examples/chapt-2/2.2/01/units-conversion.awk     compare.sh                     
-examples/chapt-2/2.3/01/replacing-newlines.awk                                  
+examples/chapt-2/2.3/01/replacing-newlines.awk   test                           
 examples/chapt-2/2.4/01/excel-sum.awk                                           
-examples/chapt-2/2.5/01/averages.awk                                            
-examples/chapt-2/2.5/02/histogram-steps.awk                                     
-examples/chapt-2/2.6/01/date-fix.awk                                            
+examples/chapt-2/2.5/01/averages.awk             exercises/solutions/02-regex/07:
+                                                                                
+examples/chapt-2/2.5/02/histogram-steps.awk      hidden-hands.awk               
+examples/chapt-2/2.6/01/date-fix.awk             patterns.txt                   
 examples/chapt-3/01/error-correction.awk                                        
-examples/chapt-3/01/group-sums.awk                                              
-examples/chapt-3/01/survival-rates.awk                                          
-examples/chapt-3/02/children.awk                                                
+examples/chapt-3/01/group-sums.awk               exercises/solutions/02-regex/08:
+                                                                                
+examples/chapt-3/01/survival-rates.awk           425-8.awk                      
+examples/chapt-3/02/children.awk                 patterns.txt                   
 examples/chapt-3/02/fields-number.awk                                           
-examples/chapt-3/02/infants.awk                                                 
-examples/chapt-3/02/non-crew-survivors.awk                                      
+examples/chapt-3/02/infants.awk                  exercises/solutions/02-regex/09:
+                                                                                
+examples/chapt-3/02/non-crew-survivors.awk       ans                            
 
