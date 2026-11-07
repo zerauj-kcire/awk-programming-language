@@ -1,6 +1,6 @@
 
 
-2026-11-05 04:41                     CONTENTS                     Page 1
+2026-11-06 18:35                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,19 +61,22 @@ examples/chapt-1/1.8/13/fat-lines.awk            replacing.awk
 examples/chapt-1/1.8/14/numfields.awk                                           
 
 
-2026-11-05 04:41                     CONTENTS                     Page 2
+2026-11-06 18:35                     CONTENTS                     Page 2
 
 
-examples/chapt-1/1.8/15/cut-c-2,1.awk                                           
-examples/chapt-1/1.8/16/permutation.awk                                         
-examples/chapt-1/1.8/17/nl.awk                                                  
+examples/chapt-1/1.8/15/cut-c-2,1.awk            exercises/solutions/02-regex/04:
+                                                                                
+examples/chapt-1/1.8/16/permutation.awk          captian-ars-decoded.awk        
+examples/chapt-1/1.8/17/nl.awk                   patterns.txt                   
 examples/chapt-1/1.8/18/combo-cut-nl.awk                                        
-examples/chapt-1/1.8/19/vertical-tac.awk                                        
-examples/chapt-1/1.8/20/row-sum.awk                                             
-examples/chapt-1/1.8/21/total-sum.awk                                           
+examples/chapt-1/1.8/19/vertical-tac.awk         exercises/solutions/02-regex/05:
+                                                                                
+examples/chapt-1/1.8/20/row-sum.awk              fives-to-two.awk               
+examples/chapt-1/1.8/21/total-sum.awk            patterns.txt                   
 examples/chapt-1/1.8/22/absolute-value.awk                                      
-examples/chapt-2/2.1/01/body-mass-index.awk                                     
-examples/chapt-2/2.2/01/units-conversion.awk                                    
+examples/chapt-2/2.1/01/body-mass-index.awk      exercises/solutions/02-regex/06:
+                                                                                
+examples/chapt-2/2.2/01/units-conversion.awk     compare.sh                     
 examples/chapt-2/2.3/01/replacing-newlines.awk                                  
 examples/chapt-2/2.4/01/excel-sum.awk                                           
 examples/chapt-2/2.5/01/averages.awk                                            
