@@ -1,6 +1,6 @@
 
 
-2026-11-07 11:46                     CONTENTS                     Page 1
+2026-11-11 21:35                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.8/13/fat-lines.awk            replacing.awk
 examples/chapt-1/1.8/14/numfields.awk                                           
 
 
-2026-11-07 11:46                     CONTENTS                     Page 2
+2026-11-11 21:35                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/15/cut-c-2,1.awk            exercises/solutions/02-regex/04:
@@ -92,4 +92,6 @@ examples/chapt-3/02/fields-number.awk
 examples/chapt-3/02/infants.awk                  exercises/solutions/02-regex/09:
                                                                                 
 examples/chapt-3/02/non-crew-survivors.awk       ans                            
+examples/chapt-3/03/ages.report.awk                                             
+examples/chapt-3/03/gender.report.awk                                           
 
