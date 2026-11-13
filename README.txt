@@ -1,6 +1,6 @@
 
 
-2026-11-12 19:03                     CONTENTS                     Page 1
+2026-11-12 19:33                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.8/10/regex.awk
 examples/chapt-1/1.8/11/max-length.awk                                          
 
 
-2026-11-12 19:03                     CONTENTS                     Page 2
+2026-11-12 19:33                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/11/max-lexicographic.awk                                   

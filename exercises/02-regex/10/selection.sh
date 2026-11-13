@@ -2,6 +2,7 @@
 
 # they're not the same
 
-paste -d " " <(nl example) \
-	<(gawk '/^(a|b)*$/' example | nl) \
-	<(gawk '/^(a*|b*)$/' example | nl) | column -t -s " ";
+paste -d " " example \
+	<(gawk '/^(a|b)*$/' example) \
+	<(gawk '/^(a*|b*)$/' example) \
+	| column --table --separator " " --table-columns "EXAMPLE,(a|b)*,(a*|b*)";
