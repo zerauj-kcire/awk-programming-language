@@ -1,26 +1,41 @@
 
 
-2026-11-12 18:29                     CONTENTS                     Page 1
+2026-11-12 19:03                     CONTENTS                     Page 1
 
 
-EXAMPLES                                                    EXERCISES           
-examples/chapt-1/1.1/1/scores.awk                                               
-examples/chapt-1/1.1/2/unproductive.awk                                         
-examples/chapt-1/1.2/1/all-lines.awk                                            
-examples/chapt-1/1.2/2/not-money.awk                                            
-examples/chapt-1/1.2/3/number-of-fields.awk                                     
-examples/chapt-1/1.2/4/number-lines.awk                                         
-examples/chapt-1/1.2/5/fancy-printing.awk                                       
-examples/chapt-1/1.3/1/formated-out.awk                                         
-examples/chapt-1/1.3/2/another-nice.awk                                         
-examples/chapt-1/1.4/01/filtering.awk                                           
-examples/chapt-1/1.4/02/finer-selection.awk                                     
-examples/chapt-1/1.4/03/filtering-name.awk                                      
-examples/chapt-1/1.4/04/combos.awk                                              
-examples/chapt-1/1.4/04/equivalence.awk                                         
-examples/chapt-1/1.4/05/validation.awk                                          
-examples/chapt-1/1.4/06/header.awk                                              
-examples/chapt-1/1.5/01/hard-workers.awk                                        
+EXAMPLES                                         EXERCISES                      
+examples/chapt-1/1.1/1/scores.awk                exercises/01-intro/01/filter.awk
+                                                                                
+examples/chapt-1/1.1/2/unproductive.awk          exercises/01-intro/02/filter.awk
+                                                                                
+examples/chapt-1/1.2/1/all-lines.awk             exercises/01-intro/03/column-filter.awk
+                                                                                
+examples/chapt-1/1.2/2/not-money.awk             exercises/01-intro/04/filter-by-column-and-row.awk
+                                                                                
+examples/chapt-1/1.2/3/number-of-fields.awk      exercises/01-intro/05/sed-ing.awk
+                                                                                
+examples/chapt-1/1.2/4/number-lines.awk          exercises/01-intro/06/prod.awk 
+examples/chapt-1/1.2/5/fancy-printing.awk        exercises/01-intro/07/gramatic-corr.awk
+                                                                                
+examples/chapt-1/1.3/1/formated-out.awk          exercises/01-intro/08/hex-rep.awk
+                                                                                
+examples/chapt-1/1.3/2/another-nice.awk          exercises/02-regex/01/display.awk
+                                                                                
+examples/chapt-1/1.4/01/filtering.awk            exercises/02-regex/02/substitution.awk
+                                                                                
+examples/chapt-1/1.4/02/finer-selection.awk      exercises/02-regex/03/replacing.awk
+                                                                                
+examples/chapt-1/1.4/03/filtering-name.awk       exercises/02-regex/04/captian-ars-decoded.awk
+                                                                                
+examples/chapt-1/1.4/04/combos.awk               exercises/02-regex/05/fives-to-two.awk
+                                                                                
+examples/chapt-1/1.4/04/equivalence.awk          exercises/02-regex/06/compare.sh
+                                                                                
+examples/chapt-1/1.4/05/validation.awk           exercises/02-regex/07/hidden-hands.awk
+                                                                                
+examples/chapt-1/1.4/06/header.awk               exercises/02-regex/08/425-8.awk
+examples/chapt-1/1.5/01/hard-workers.awk         exercises/02-regex/10/selection.sh
+                                                                                
 examples/chapt-1/1.5/02/average.awk                                             
 examples/chapt-1/1.5/02/total.awk                                               
 examples/chapt-1/1.5/03/best-employee.awk                                       
@@ -44,6 +59,11 @@ examples/chapt-1/1.8/08/tricky-part.awk
 examples/chapt-1/1.8/09/word-counter-FS.awk                                     
 examples/chapt-1/1.8/10/regex.awk                                               
 examples/chapt-1/1.8/11/max-length.awk                                          
+
+
+2026-11-12 19:03                     CONTENTS                     Page 2
+
+
 examples/chapt-1/1.8/11/max-lexicographic.awk                                   
 examples/chapt-1/1.8/12/nonempty.awk                                            
 examples/chapt-1/1.8/13/fat-lines.awk                                           
@@ -59,11 +79,6 @@ examples/chapt-1/1.8/22/absolute-value.awk
 examples/chapt-2/2.1/01/body-mass-index.awk                                     
 examples/chapt-2/2.2/01/units-conversion.awk                                    
 examples/chapt-2/2.3/01/replacing-newlines.awk                                  
-
-
-2026-11-12 18:29                     CONTENTS                     Page 2
-
-
 examples/chapt-2/2.4/01/excel-sum.awk                                           
 examples/chapt-2/2.5/01/averages.awk                                            
 examples/chapt-2/2.5/02/histogram-steps.awk                                     

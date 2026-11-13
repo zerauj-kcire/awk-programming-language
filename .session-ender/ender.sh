@@ -1,6 +1,6 @@
 #!/bin/bash
 
-paste -d" " <(find examples/ -name "*awk" | sort) <(ls exercises/solutions/*/**) \
+paste -d" " <(find examples/ -name "*awk" | sort) <(find exercises/ -name "*awk" -or -name "*sh" | sort) \
 	| column -t -s " " -N "EXAMPLES,EXERCISES" -m  \
 	| pr -f -h "CONTENTS" > README.txt;
 
