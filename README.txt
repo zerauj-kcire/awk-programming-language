@@ -1,6 +1,6 @@
 
 
-2026-11-12 19:35                     CONTENTS                     Page 1
+2026-11-12 19:59                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -36,9 +36,12 @@ examples/chapt-1/1.4/05/validation.awk           exercises/02-regex/07/hidden-ha
 examples/chapt-1/1.4/06/header.awk               exercises/02-regex/08/425-8.awk
 examples/chapt-1/1.5/01/hard-workers.awk         exercises/02-regex/10/selection.sh
                                                                                 
-examples/chapt-1/1.5/02/average.awk                                             
-examples/chapt-1/1.5/02/total.awk                                               
-examples/chapt-1/1.5/03/best-employee.awk                                       
+examples/chapt-1/1.5/02/average.awk              exercises/02-regex/11/01-bubble-burster.awk
+                                                                                
+examples/chapt-1/1.5/02/total.awk                exercises/02-regex/11/02-bubble-buster.awk
+                                                                                
+examples/chapt-1/1.5/03/best-employee.awk        exercises/02-regex/12/md-to-html.awk
+                                                                                
 examples/chapt-1/1.5/04/all-names.awk                                           
 examples/chapt-1/1.5/05/last-line.awk                                           
 examples/chapt-1/1.5/06/length.awk                                              
@@ -56,14 +59,14 @@ examples/chapt-1/1.8/05/tail-lf.awk
 examples/chapt-1/1.8/06/field-requirement.awk                                   
 examples/chapt-1/1.8/07/field-requirements2.awk                                 
 examples/chapt-1/1.8/08/tricky-part.awk                                         
+
+
+2026-11-12 19:59                     CONTENTS                     Page 2
+
+
 examples/chapt-1/1.8/09/word-counter-FS.awk                                     
 examples/chapt-1/1.8/10/regex.awk                                               
 examples/chapt-1/1.8/11/max-length.awk                                          
-
-
-2026-11-12 19:35                     CONTENTS                     Page 2
-
-
 examples/chapt-1/1.8/11/max-lexicographic.awk                                   
 examples/chapt-1/1.8/12/nonempty.awk                                            
 examples/chapt-1/1.8/13/fat-lines.awk                                           

@@ -1,1 +1,1 @@
-/home/kcire/resarch/comp/gawk/exercises/solutions/02-regex/04/patterns.txt
+/home/kcire/resarch/comp/gawk/exercises/02-regex/02/patterns.txt
