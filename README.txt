@@ -1,6 +1,6 @@
 
 
-2026-11-12 19:59                     CONTENTS                     Page 1
+2026-11-13 19:05                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -40,30 +40,35 @@ examples/chapt-1/1.5/02/average.awk              exercises/02-regex/11/01-bubble
                                                                                 
 examples/chapt-1/1.5/02/total.awk                exercises/02-regex/11/02-bubble-buster.awk
                                                                                 
-examples/chapt-1/1.5/03/best-employee.awk        exercises/02-regex/12/md-to-html.awk
+examples/chapt-1/1.5/03/best-employee.awk        exercises/02-regex/12/html2md.awk
                                                                                 
-examples/chapt-1/1.5/04/all-names.awk                                           
-examples/chapt-1/1.5/05/last-line.awk                                           
-examples/chapt-1/1.5/06/length.awk                                              
-examples/chapt-1/1.5/07/counter.awk                                             
-examples/chapt-1/1.6/1/exceptional-average.awk                                  
-examples/chapt-1/1.6/2/taxes.awk                                                
+examples/chapt-1/1.5/04/all-names.awk            exercises/02-regex/13/filter.awk
+                                                                                
+examples/chapt-1/1.5/05/last-line.awk            exercises/02-regex/14/rep-42.awk
+                                                                                
+examples/chapt-1/1.5/06/length.awk               exercises/02-regex/15/ar2X.awk 
+examples/chapt-1/1.5/07/counter.awk              exercises/02-regex/16/filtering.awk
+                                                                                
+examples/chapt-1/1.6/1/exceptional-average.awk   exercises/02-regex/17/another-filter.awk
+                                                                                
+examples/chapt-1/1.6/2/taxes.awk                 exercises/02-regex/18/mathcing.awk
+                                                                                
 examples/chapt-1/1.6/3/taxes2.awk                                               
 examples/chapt-1/1.6/4/fizzbuzz.awk                                             
 examples/chapt-1/1.7/1/tac.awk                                                  
 examples/chapt-1/1.8/01/01-wc-l.awk                                             
 examples/chapt-1/1.8/02/02-first-lines.awk                                      
 examples/chapt-1/1.8/03/03-modulo-lines.awk                                     
+
+
+2026-11-13 19:05                     CONTENTS                     Page 2
+
+
 examples/chapt-1/1.8/04/last-field.awk                                          
 examples/chapt-1/1.8/05/tail-lf.awk                                             
 examples/chapt-1/1.8/06/field-requirement.awk                                   
 examples/chapt-1/1.8/07/field-requirements2.awk                                 
 examples/chapt-1/1.8/08/tricky-part.awk                                         
-
-
-2026-11-12 19:59                     CONTENTS                     Page 2
-
-
 examples/chapt-1/1.8/09/word-counter-FS.awk                                     
 examples/chapt-1/1.8/10/regex.awk                                               
 examples/chapt-1/1.8/11/max-length.awk                                          
