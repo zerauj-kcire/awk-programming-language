@@ -1,6 +1,6 @@
 
 
-2026-11-13 19:44                     CONTENTS                     Page 1
+2026-11-14 06:43                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -57,15 +57,18 @@ examples/chapt-1/1.6/3/taxes2.awk                exercises/02-regex/19/anothar-f
                                                                                 
 examples/chapt-1/1.6/4/fizzbuzz.awk              exercises/02-regex/20/semicolon.awk
                                                                                 
-examples/chapt-1/1.7/1/tac.awk                                                  
-examples/chapt-1/1.8/01/01-wc-l.awk                                             
+examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-replacing.awk
+                                                                                
 
 
-2026-11-13 19:44                     CONTENTS                     Page 2
+2026-11-14 06:43                     CONTENTS                     Page 2
 
 
-examples/chapt-1/1.8/02/02-first-lines.awk                                      
-examples/chapt-1/1.8/03/03-modulo-lines.awk                                     
+examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
+                                                                                
+examples/chapt-1/1.8/02/02-first-lines.awk       exercises/02-regex/23/anfil.awk
+examples/chapt-1/1.8/03/03-modulo-lines.awk      exercises/02-regex/24/num-around-colon-del.awk
+                                                                                
 examples/chapt-1/1.8/04/last-field.awk                                          
 examples/chapt-1/1.8/05/tail-lf.awk                                             
 examples/chapt-1/1.8/06/field-requirement.awk                                   
