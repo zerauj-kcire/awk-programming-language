@@ -1,6 +1,6 @@
 
 
-2026-11-16 20:05                     CONTENTS                     Page 1
+2026-11-17 11:48                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-rep
                                                                                 
 
 
-2026-11-16 20:05                     CONTENTS                     Page 2
+2026-11-17 11:48                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
@@ -77,8 +77,10 @@ examples/chapt-1/1.8/06/field-requirement.awk    exercises/03-FS/03/math-approve
 examples/chapt-1/1.8/07/field-requirements2.awk  exercises/03-FS/04/wc-w.awk    
 examples/chapt-1/1.8/08/tricky-part.awk          exercises/03-FS/05/first-and-third.awk
                                                                                 
-examples/chapt-1/1.8/09/word-counter-FS.awk                                     
-examples/chapt-1/1.8/10/regex.awk                                               
+examples/chapt-1/1.8/09/word-counter-FS.awk      exercises/03-FS/06/column-filter.awk
+                                                                                
+examples/chapt-1/1.8/10/regex.awk                exercises/03-FS/07/empty-to-na.awk
+                                                                                
 examples/chapt-1/1.8/11/max-length.awk                                          
 examples/chapt-1/1.8/11/max-lexicographic.awk                                   
 examples/chapt-1/1.8/12/nonempty.awk                                            

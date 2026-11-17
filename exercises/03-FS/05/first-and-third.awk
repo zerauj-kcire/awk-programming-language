@@ -1,4 +1,3 @@
 
-# not solved
 BEGIN { FS="\""; OFS="," } 
-{ print $2, $6 } 
+{ print "\"" $2 "\"", "\"" $6 "\"" } 
