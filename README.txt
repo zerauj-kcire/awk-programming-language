@@ -1,6 +1,6 @@
 
 
-2026-11-17 11:48                     CONTENTS                     Page 1
+2026-11-19 19:12                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-rep
                                                                                 
 
 
-2026-11-17 11:48                     CONTENTS                     Page 2
+2026-11-19 19:12                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
@@ -81,11 +81,14 @@ examples/chapt-1/1.8/09/word-counter-FS.awk      exercises/03-FS/06/column-filte
                                                                                 
 examples/chapt-1/1.8/10/regex.awk                exercises/03-FS/07/empty-to-na.awk
                                                                                 
-examples/chapt-1/1.8/11/max-length.awk                                          
-examples/chapt-1/1.8/11/max-lexicographic.awk                                   
-examples/chapt-1/1.8/12/nonempty.awk                                            
-examples/chapt-1/1.8/13/fat-lines.awk                                           
-examples/chapt-1/1.8/14/numfields.awk                                           
+examples/chapt-1/1.8/11/max-length.awk           exercises/03-FS/08/cut-c-N.awk 
+examples/chapt-1/1.8/11/max-lexicographic.awk    exercises/03-FS/09/nf-droped.awk
+                                                                                
+examples/chapt-1/1.8/12/nonempty.awk             exercises/03-FS/10/changes-like-yes-song.awk
+                                                                                
+examples/chapt-1/1.8/13/fat-lines.awk            exercises/03-FS/11/cat.awk     
+examples/chapt-1/1.8/14/numfields.awk            exercises/03-FS/12/long-lines.awk
+                                                                                
 examples/chapt-1/1.8/15/cut-c-2,1.awk                                           
 examples/chapt-1/1.8/16/permutation.awk                                         
 examples/chapt-1/1.8/17/nl.awk                                                  
