@@ -1,3 +1,2 @@
-# not solved yet
-BEGIN { FS = "[^a-z]" }
+BEGIN { FS = "[aeiou]" }
 NF > 6

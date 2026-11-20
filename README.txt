@@ -1,6 +1,6 @@
 
 
-2026-11-19 19:12                     CONTENTS                     Page 1
+2026-11-20 15:59                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-rep
                                                                                 
 
 
-2026-11-19 19:12                     CONTENTS                     Page 2
+2026-11-20 15:59                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
@@ -89,9 +89,11 @@ examples/chapt-1/1.8/12/nonempty.awk             exercises/03-FS/10/changes-like
 examples/chapt-1/1.8/13/fat-lines.awk            exercises/03-FS/11/cat.awk     
 examples/chapt-1/1.8/14/numfields.awk            exercises/03-FS/12/long-lines.awk
                                                                                 
-examples/chapt-1/1.8/15/cut-c-2,1.awk                                           
-examples/chapt-1/1.8/16/permutation.awk                                         
-examples/chapt-1/1.8/17/nl.awk                                                  
+examples/chapt-1/1.8/15/cut-c-2,1.awk            exercises/03-FS/13/shebang-to-num.awk
+                                                                                
+examples/chapt-1/1.8/16/permutation.awk          exercises/03-FS/14/fir-and-last.awk
+                                                                                
+examples/chapt-1/1.8/17/nl.awk                   exercises/03-FS/15/sol.awk     
 examples/chapt-1/1.8/18/combo-cut-nl.awk                                        
 examples/chapt-1/1.8/19/vertical-tac.awk                                        
 examples/chapt-1/1.8/20/row-sum.awk                                             
