@@ -1,0 +1,3 @@
+apple
+pie\0banana
+cherry\0

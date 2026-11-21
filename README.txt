@@ -1,6 +1,6 @@
 
 
-2026-11-20 21:42                     CONTENTS                     Page 1
+2026-11-21 02:50                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-rep
                                                                                 
 
 
-2026-11-20 21:42                     CONTENTS                     Page 2
+2026-11-21 02:50                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
@@ -102,20 +102,29 @@ examples/chapt-1/1.8/21/total-sum.awk            exercises/04-RS/04/do-paragraph
                                                                                 
 examples/chapt-1/1.8/22/absolute-value.awk       exercises/04-RS/05/dot-merged.awk
                                                                                 
-examples/chapt-2/2.1/01/body-mass-index.awk                                     
-examples/chapt-2/2.2/01/units-conversion.awk                                    
-examples/chapt-2/2.3/01/replacing-newlines.awk                                  
-examples/chapt-2/2.4/01/excel-sum.awk                                           
-examples/chapt-2/2.5/01/averages.awk                                            
-examples/chapt-2/2.5/02/histogram-steps.awk                                     
-examples/chapt-2/2.6/01/date-fix.awk                                            
-examples/chapt-3/01/error-correction.awk                                        
-examples/chapt-3/01/group-sums.awk                                              
+examples/chapt-2/2.1/01/body-mass-index.awk      exercises/04-RS/06/sol.awk     
+examples/chapt-2/2.2/01/units-conversion.awk     exercises/04-RS/07/not-two.awk 
+examples/chapt-2/2.3/01/replacing-newlines.awk   exercises/04-RS/08/lines-air-win.awk
+                                                                                
+examples/chapt-2/2.4/01/excel-sum.awk            exercises/04-RS/09/sumcol.awk  
+examples/chapt-2/2.5/01/averages.awk             exercises/04-RS/10/2-4-five.awk
+examples/chapt-2/2.5/02/histogram-steps.awk      exercises/04-RS/11/globin-curly-brackets.awk
+                                                                                
+examples/chapt-2/2.6/01/date-fix.awk             exercises/04-RS/12/sol.awk     
+examples/chapt-3/01/error-correction.awk         exercises/04-RS/13/comb-fs-rs.awk
+                                                                                
+examples/chapt-3/01/group-sums.awk               exercises/04-RS/14/even-records.awk
+                                                                                
 examples/chapt-3/01/survival-rates.awk                                          
 examples/chapt-3/02/children.awk                                                
 examples/chapt-3/02/fields-number.awk                                           
 examples/chapt-3/02/infants.awk                                                 
 examples/chapt-3/02/non-crew-survivors.awk                                      
+
+
+2026-11-21 02:50                     CONTENTS                     Page 3
+
+
 examples/chapt-3/03/ages.report.awk                                             
 examples/chapt-3/03/gender.report.awk                                           
 
