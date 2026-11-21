@@ -1,6 +1,6 @@
 
 
-2026-11-20 15:59                     CONTENTS                     Page 1
+2026-11-20 19:52                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-rep
                                                                                 
 
 
-2026-11-20 15:59                     CONTENTS                     Page 2
+2026-11-20 19:52                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
