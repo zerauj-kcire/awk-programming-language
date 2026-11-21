@@ -684,7 +684,7 @@ Ith,100,100,100,100
 ```
 
 **4)** For the input file `sample.txt`, extract paragraphs containing `do` and 
-exactly two lines.
+has exactly two lines.
 
 ```bash
 $ cat sample.txt

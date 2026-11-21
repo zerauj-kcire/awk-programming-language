@@ -1,0 +1,3 @@
+# stupid awk...
+BEGIN { FS="\n"; RS="" } # "" MEANS NOT THE \0 CHARACTER; INSTEAD MEANS ^$ !!!!!!
+/do/ && NF == 2 {print $0}

@@ -1,0 +1,3 @@
+BEGIN { RS="\n"; ORS="," }
+{ print $0 }
+END {printf("\b")} # not the cleanest way to do it... but it works...

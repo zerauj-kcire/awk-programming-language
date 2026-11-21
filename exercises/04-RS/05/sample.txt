@@ -1,0 +1,1 @@
+/home/kcire/resarch/comp/gawk/exercises/04-RS/04/sample.txt
