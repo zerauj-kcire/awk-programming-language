@@ -1,0 +1,6 @@
+# { print -$0 } # this is a valid solution...
+
+# using gensub because the problems says.... but it stupid.
+# the only difference its the last line, for the 0 num...
+/^-/ { print gensub(/-/, "", 1, $0) }
+!/^-/ { print gensub(/^/, "-", 1, $0) }

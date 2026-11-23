@@ -1,6 +1,6 @@
 
 
-2026-11-22 20:02                     CONTENTS                     Page 1
+2026-11-22 21:36                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -61,7 +61,7 @@ examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-rep
                                                                                 
 
 
-2026-11-22 20:02                     CONTENTS                     Page 2
+2026-11-22 21:36                     CONTENTS                     Page 2
 
 
 examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
@@ -118,13 +118,15 @@ examples/chapt-3/01/group-sums.awk               exercises/04-RS/14/even-records
 examples/chapt-3/01/survival-rates.awk           exercises/04-RS/15/exex.sh     
 examples/chapt-3/02/children.awk                 exercises/04-RS/15/special-chars.awk
                                                                                 
-examples/chapt-3/02/fields-number.awk                                           
-examples/chapt-3/02/infants.awk                                                 
+examples/chapt-3/02/fields-number.awk            exercises/07-CONTROL-STRUCT/01/sign-changer.awk
+                                                                                
 
 
-2026-11-22 20:02                     CONTENTS                     Page 3
+2026-11-22 21:36                     CONTENTS                     Page 3
 
 
+examples/chapt-3/02/infants.awk                  exercises/07-CONTROL-STRUCT/02/txt-to-csv.awk
+                                                                                
 examples/chapt-3/02/non-crew-survivors.awk                                      
 examples/chapt-3/03/ages.report.awk                                             
 examples/chapt-3/03/gender.report.awk                                           

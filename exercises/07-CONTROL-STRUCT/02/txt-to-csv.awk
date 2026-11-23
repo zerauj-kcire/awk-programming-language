@@ -1,0 +1,3 @@
+BEGIN { FS=" "; OFS="," }
+{NF=NF} # fucking stupid shit....
+{ print gensub(/\<([^0-9,]+)\>/, "\"\\1\"", "g", $0) }
