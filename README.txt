@@ -1,6 +1,6 @@
 
 
-2026-11-22 21:36                     CONTENTS                     Page 1
+2026-11-22 22:18                     CONTENTS                     Page 1
 
 
 EXAMPLES                                         EXERCISES                      
@@ -34,100 +34,105 @@ examples/chapt-1/1.4/04/equivalence.awk          exercises/02-regex/06/compare.s
 examples/chapt-1/1.4/05/validation.awk           exercises/02-regex/07/hidden-hands.awk
                                                                                 
 examples/chapt-1/1.4/06/header.awk               exercises/02-regex/08/425-8.awk
-examples/chapt-1/1.5/01/hard-workers.awk         exercises/02-regex/10/selection.sh
+examples/chapt-1/1.5/01/hard-workers.awk         exercises/02-regex/09/ans-trivial.sh
                                                                                 
-examples/chapt-1/1.5/02/average.awk              exercises/02-regex/11/01-bubble-burster.awk
+examples/chapt-1/1.5/02/average.awk              exercises/02-regex/10/selection.sh
                                                                                 
-examples/chapt-1/1.5/02/total.awk                exercises/02-regex/11/02-bubble-buster.awk
+examples/chapt-1/1.5/02/total.awk                exercises/02-regex/11/01-bubble-burster.awk
                                                                                 
-examples/chapt-1/1.5/03/best-employee.awk        exercises/02-regex/12/html2md.awk
+examples/chapt-1/1.5/03/best-employee.awk        exercises/02-regex/11/02-bubble-buster.awk
                                                                                 
-examples/chapt-1/1.5/04/all-names.awk            exercises/02-regex/13/filter.awk
+examples/chapt-1/1.5/04/all-names.awk            exercises/02-regex/12/html2md.awk
                                                                                 
-examples/chapt-1/1.5/05/last-line.awk            exercises/02-regex/14/rep-42.awk
+examples/chapt-1/1.5/05/last-line.awk            exercises/02-regex/13/filter.awk
                                                                                 
-examples/chapt-1/1.5/06/length.awk               exercises/02-regex/15/ar2X.awk 
-examples/chapt-1/1.5/07/counter.awk              exercises/02-regex/16/filtering.awk
+examples/chapt-1/1.5/06/length.awk               exercises/02-regex/14/rep-42.awk
                                                                                 
-examples/chapt-1/1.6/1/exceptional-average.awk   exercises/02-regex/17/another-filter.awk
+examples/chapt-1/1.5/07/counter.awk              exercises/02-regex/15/ar2X.awk 
+examples/chapt-1/1.6/1/exceptional-average.awk   exercises/02-regex/16/filtering.awk
                                                                                 
-examples/chapt-1/1.6/2/taxes.awk                 exercises/02-regex/18/mathcing.awk
+examples/chapt-1/1.6/2/taxes.awk                 exercises/02-regex/17/another-filter.awk
                                                                                 
-examples/chapt-1/1.6/3/taxes2.awk                exercises/02-regex/19/anothar-fancy-filtration.awk
+examples/chapt-1/1.6/3/taxes2.awk                exercises/02-regex/18/mathcing.awk
                                                                                 
-examples/chapt-1/1.6/4/fizzbuzz.awk              exercises/02-regex/20/semicolon.awk
+examples/chapt-1/1.6/4/fizzbuzz.awk              exercises/02-regex/19/anothar-fancy-filtration.awk
                                                                                 
-examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/21/fancy-replacing.awk
-                                                                                
-
-
-2026-11-22 21:36                     CONTENTS                     Page 2
-
-
-examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/22/xtopar.awk
-                                                                                
-examples/chapt-1/1.8/02/02-first-lines.awk       exercises/02-regex/23/anfil.awk
-examples/chapt-1/1.8/03/03-modulo-lines.awk      exercises/02-regex/24/num-around-colon-del.awk
-                                                                                
-examples/chapt-1/1.8/04/last-field.awk           exercises/03-FS/01/parents.awk 
-examples/chapt-1/1.8/05/tail-lf.awk              exercises/03-FS/02/name-physics.awk
-                                                                                
-examples/chapt-1/1.8/06/field-requirement.awk    exercises/03-FS/03/math-approved.awk
-                                                                                
-examples/chapt-1/1.8/07/field-requirements2.awk  exercises/03-FS/04/wc-w.awk    
-examples/chapt-1/1.8/08/tricky-part.awk          exercises/03-FS/05/first-and-third.awk
-                                                                                
-examples/chapt-1/1.8/09/word-counter-FS.awk      exercises/03-FS/06/column-filter.awk
-                                                                                
-examples/chapt-1/1.8/10/regex.awk                exercises/03-FS/07/empty-to-na.awk
-                                                                                
-examples/chapt-1/1.8/11/max-length.awk           exercises/03-FS/08/cut-c-N.awk 
-examples/chapt-1/1.8/11/max-lexicographic.awk    exercises/03-FS/09/nf-droped.awk
-                                                                                
-examples/chapt-1/1.8/12/nonempty.awk             exercises/03-FS/10/changes-like-yes-song.awk
-                                                                                
-examples/chapt-1/1.8/13/fat-lines.awk            exercises/03-FS/11/cat.awk     
-examples/chapt-1/1.8/14/numfields.awk            exercises/03-FS/12/long-lines.awk
-                                                                                
-examples/chapt-1/1.8/15/cut-c-2,1.awk            exercises/03-FS/13/shebang-to-num.awk
-                                                                                
-examples/chapt-1/1.8/16/permutation.awk          exercises/03-FS/14/fir-and-last.awk
-                                                                                
-examples/chapt-1/1.8/17/nl.awk                   exercises/03-FS/15/sol.awk     
-examples/chapt-1/1.8/18/combo-cut-nl.awk         exercises/04-RS/01/filter.awk  
-examples/chapt-1/1.8/19/vertical-tac.awk         exercises/04-RS/02/paste-sd.awk
-examples/chapt-1/1.8/20/row-sum.awk              exercises/04-RS/03/convex-linear-comb.awk
-                                                                                
-examples/chapt-1/1.8/21/total-sum.awk            exercises/04-RS/04/do-paragraphs.awk
-                                                                                
-examples/chapt-1/1.8/22/absolute-value.awk       exercises/04-RS/05/dot-merged.awk
-                                                                                
-examples/chapt-2/2.1/01/body-mass-index.awk      exercises/04-RS/06/sol.awk     
-examples/chapt-2/2.2/01/units-conversion.awk     exercises/04-RS/07/not-two.awk 
-examples/chapt-2/2.3/01/replacing-newlines.awk   exercises/04-RS/08/lines-air-win.awk
-                                                                                
-examples/chapt-2/2.4/01/excel-sum.awk            exercises/04-RS/09/sumcol.awk  
-examples/chapt-2/2.5/01/averages.awk             exercises/04-RS/10/2-4-five.awk
-examples/chapt-2/2.5/02/histogram-steps.awk      exercises/04-RS/11/globin-curly-brackets.awk
-                                                                                
-examples/chapt-2/2.6/01/date-fix.awk             exercises/04-RS/12/sol.awk     
-examples/chapt-3/01/error-correction.awk         exercises/04-RS/13/comb-fs-rs.awk
-                                                                                
-examples/chapt-3/01/group-sums.awk               exercises/04-RS/14/even-records.awk
-                                                                                
-examples/chapt-3/01/survival-rates.awk           exercises/04-RS/15/exex.sh     
-examples/chapt-3/02/children.awk                 exercises/04-RS/15/special-chars.awk
-                                                                                
-examples/chapt-3/02/fields-number.awk            exercises/07-CONTROL-STRUCT/01/sign-changer.awk
+examples/chapt-1/1.7/1/tac.awk                   exercises/02-regex/20/semicolon.awk
                                                                                 
 
 
-2026-11-22 21:36                     CONTENTS                     Page 3
+2026-11-22 22:18                     CONTENTS                     Page 2
 
 
-examples/chapt-3/02/infants.awk                  exercises/07-CONTROL-STRUCT/02/txt-to-csv.awk
+examples/chapt-1/1.8/01/01-wc-l.awk              exercises/02-regex/21/fancy-replacing.awk
                                                                                 
-examples/chapt-3/02/non-crew-survivors.awk                                      
-examples/chapt-3/03/ages.report.awk                                             
-examples/chapt-3/03/gender.report.awk                                           
+examples/chapt-1/1.8/02/02-first-lines.awk       exercises/02-regex/22/xtopar.awk
+                                                                                
+examples/chapt-1/1.8/03/03-modulo-lines.awk      exercises/02-regex/23/anfil.awk
+examples/chapt-1/1.8/04/last-field.awk           exercises/02-regex/24/num-around-colon-del.awk
+                                                                                
+examples/chapt-1/1.8/05/tail-lf.awk              exercises/03-FS/01/parents.awk 
+examples/chapt-1/1.8/06/field-requirement.awk    exercises/03-FS/02/name-physics.awk
+                                                                                
+examples/chapt-1/1.8/07/field-requirements2.awk  exercises/03-FS/03/math-approved.awk
+                                                                                
+examples/chapt-1/1.8/08/tricky-part.awk          exercises/03-FS/04/wc-w.awk    
+examples/chapt-1/1.8/09/word-counter-FS.awk      exercises/03-FS/05/first-and-third.awk
+                                                                                
+examples/chapt-1/1.8/10/regex.awk                exercises/03-FS/06/column-filter.awk
+                                                                                
+examples/chapt-1/1.8/11/max-length.awk           exercises/03-FS/07/empty-to-na.awk
+                                                                                
+examples/chapt-1/1.8/11/max-lexicographic.awk    exercises/03-FS/08/cut-c-N.awk 
+examples/chapt-1/1.8/12/nonempty.awk             exercises/03-FS/09/nf-droped.awk
+                                                                                
+examples/chapt-1/1.8/13/fat-lines.awk            exercises/03-FS/10/changes-like-yes-song.awk
+                                                                                
+examples/chapt-1/1.8/14/numfields.awk            exercises/03-FS/11/cat.awk     
+examples/chapt-1/1.8/15/cut-c-2,1.awk            exercises/03-FS/12/long-lines.awk
+                                                                                
+examples/chapt-1/1.8/16/permutation.awk          exercises/03-FS/13/shebang-to-num.awk
+                                                                                
+examples/chapt-1/1.8/17/nl.awk                   exercises/03-FS/14/fir-and-last.awk
+                                                                                
+examples/chapt-1/1.8/18/combo-cut-nl.awk         exercises/03-FS/15/sol.awk     
+examples/chapt-1/1.8/19/vertical-tac.awk         exercises/04-RS/01/filter.awk  
+examples/chapt-1/1.8/20/row-sum.awk              exercises/04-RS/02/paste-sd.awk
+examples/chapt-1/1.8/21/total-sum.awk            exercises/04-RS/03/convex-linear-comb.awk
+                                                                                
+examples/chapt-1/1.8/22/absolute-value.awk       exercises/04-RS/04/do-paragraphs.awk
+                                                                                
+examples/chapt-2/2.1/01/body-mass-index.awk      exercises/04-RS/05/dot-merged.awk
+                                                                                
+examples/chapt-2/2.2/01/units-conversion.awk     exercises/04-RS/06/sol.awk     
+examples/chapt-2/2.3/01/replacing-newlines.awk   exercises/04-RS/07/not-two.awk 
+examples/chapt-2/2.4/01/excel-sum.awk            exercises/04-RS/08/lines-air-win.awk
+                                                                                
+examples/chapt-2/2.5/01/averages.awk             exercises/04-RS/09/sumcol.awk  
+examples/chapt-2/2.5/02/histogram-steps.awk      exercises/04-RS/10/2-4-five.awk
+examples/chapt-2/2.6/01/date-fix.awk             exercises/04-RS/11/globin-curly-brackets.awk
+                                                                                
+examples/chapt-3/01/error-correction.awk         exercises/04-RS/12/sol.awk     
+examples/chapt-3/01/group-sums.awk               exercises/04-RS/13/comb-fs-rs.awk
+                                                                                
+examples/chapt-3/01/survival-rates.awk           exercises/04-RS/14/even-records.awk
+                                                                                
+examples/chapt-3/02/children.awk                 exercises/04-RS/15/exex.sh     
+examples/chapt-3/02/fields-number.awk            exercises/04-RS/15/special-chars.awk
+                                                                                
+
+
+2026-11-22 22:18                     CONTENTS                     Page 3
+
+
+examples/chapt-3/02/infants.awk                  exercises/07-CONTROL-STRUCT/01/sign-changer.awk
+                                                                                
+examples/chapt-3/02/non-crew-survivors.awk       exercises/07-CONTROL-STRUCT/02/txt-to-csv.awk
+                                                                                
+examples/chapt-3/03/ages.report.awk              exercises/07-CONTROL-STRUCT/03/decoder.awk
+                                                                                
+examples/chapt-3/03/gender.report.awk            exercises/07-CONTROL-STRUCT/04/sed-q.awk
+                                                                                
+                                                 exercises/07-CONTROL-STRUCT/04/sed-Q.awk
+                                                                                
 
